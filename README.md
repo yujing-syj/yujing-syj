@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a computational social science student at Uchicago.
+- 🔭 I’m currently a Computational Social Science student at UChicago.
+- 😄 I'm proficient with Python, R, SQL and Tableau.
 - 🌱 I’m looking for the summer intern opportunity as a DA/DS.
+
 <!--
 **yujing-syj/yujing-syj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
